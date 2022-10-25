@@ -19,3 +19,4 @@ values:
 ----
 
 
+git add --all
